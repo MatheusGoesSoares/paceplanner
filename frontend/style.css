@@ -229,9 +229,11 @@ button,
 @media (max-width: 768px) {
   .header-logo {
     display: block;
-    margin: 0;
-    width: 120vw;
-    left: -96px;
+    width: 95%;
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    position: static;
   }
 
   .container {
