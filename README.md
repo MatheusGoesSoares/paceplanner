@@ -4,7 +4,7 @@ PacePlanner é uma aplicação web fullstack desenvolvida para registrar e geren
 
 ## Aplicação Online
 
-Frontend: https://seu-link-netlify.netlify.app
+Frontend: https://paceplanner-app.netlify.app
 
 Backend API: https://paceplanner-backend.onrender.com
 
