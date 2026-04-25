@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/api/runs';
+const API_URL = 'https://paceplanner-backend.onrender.com/api/runs';
 
 const form = document.getElementById('run-form');
 const runId = document.getElementById('run-id');
